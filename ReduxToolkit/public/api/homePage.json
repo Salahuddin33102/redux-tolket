@@ -1,0 +1,85 @@
+{
+  "featured": [
+    {
+      "img": "/images/post-free-01.jpg",
+      "para": "The Future of Wearable Tech: Innovations Shaping Our Lives",
+      "btn": "READ MORE"
+    },
+    {
+      "img": "/images/post-free-03.jpg",
+      "para": "The Future of Wearable Tech: Innovations Shaping Our Lives",
+      "btn": "READ MORE"
+    },
+    {
+      "img": "/images/post-free-01.jpg",
+      "para": "The Future of Wearable Tech: Innovations Shaping Our Lives",
+      "btn": "READ MORE"
+    }
+  ],
+  "passions": [
+    {
+      "icon": "MARKETING",
+      "title": "Marketing",
+      "para": "Elevate your skills with expert strategies and industry secrets"
+    },
+    {
+      "icon": "MARKETING",
+      "title": "Marketing",
+      "para": "Elevate your skills with expert strategies and industry secrets"
+    },
+    {
+      "icon": "MARKETING",
+      "title": "Marketing",
+      "para": "Elevate your skills with expert strategies and industry secrets"
+    },
+    {
+      "icon": "MARKETING",
+      "title": "Marketing",
+      "para": "Elevate your skills with expert strategies and industry secrets"
+    }
+  ],
+  "latest": [
+    {
+      "img": "/images/post-free-11.jpg",
+      "title": "Technology",
+      "para": "The Future of Wearable Tech: Innovations Shaping Our Lives",
+      "date": "February 13, 2025",
+      "comet": "No Comments"
+    },
+    {
+      "img": "/images/post-free-11.jpg",
+      "title": "Technology",
+      "para": "The Future of Wearable Tech: Innovations Shaping Our Lives",
+      "date": "February 13, 2025",
+      "comet": "No Comments"
+    },
+    {
+      "img": "/images/post-free-11.jpg",
+      "title": "Technology",
+      "para": "The Future of Wearable Tech: Innovations Shaping Our Lives",
+      "date": "February 13, 2025",
+      "comet": "No Comments"
+    },
+    {
+      "img": "/images/post-free-11.jpg",
+      "title": "Technology",
+      "para": "The Future of Wearable Tech: Innovations Shaping Our Lives",
+      "date": "February 13, 2025",
+      "comet": "No Comments"
+    },
+    {
+      "img": "/images/post-free-11.jpg",
+      "title": "Technology",
+      "para": "The Future of Wearable Tech: Innovations Shaping Our Lives",
+      "date": "February 13, 2025",
+      "comet": "No Comments"
+    },
+    {
+      "img": "/images/post-free-11.jpg",
+      "title": "Technology",
+      "para": "The Future of Wearable Tech: Innovations Shaping Our Lives",
+      "date": "February 13, 2025",
+      "comet": "No Comments"
+    }
+  ]
+}
